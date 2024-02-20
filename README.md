@@ -1,7 +1,7 @@
 # 🔢Calculator
 ## Independent Project
-  ✖️Python
-  ✖️TKinter
+  ✖️Python </br>
+  ✖️TKinter </br>
   ✖️Computes the simple arithmetic operations of a calculator
 
 ### Preview
